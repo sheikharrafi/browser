@@ -41,6 +41,7 @@
     "vitest": "^2.0.0"
   },
   "build": {
+    "publish": null,
     "appId": "com.example.feature-rich-browser",
     "productName": "FeatureRichBrowser",
     "directories": {
