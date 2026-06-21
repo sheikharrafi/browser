@@ -1,0 +1,17 @@
+# Dependencies / build output (repo root)
+node_modules/
+new-project/node_modules/
+
+# Build artifacts
+dist/
+new-project/dist/
+
+# Packaged installers
+release/
+new-project/release/
+
+# Misc
+out/
+*.log
+*.tsbuildinfo
+.DS_Store
